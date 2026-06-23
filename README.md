@@ -66,7 +66,7 @@
 ## Install
 
 ```sh
-npm i -g reasonix                  # any OS; pulls the prebuilt native binary
+npm i -g reasonix@next                  # any OS; pulls the prebuilt native binary
 brew install esengine/reasonix/reasonix   # macOS
 ```
 
